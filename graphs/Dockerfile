@@ -1,4 +1,4 @@
-FROM python:3.4-alpine
+FROM python:3.11.0b4-alpine
 
 MAINTAINER Container Solutions info@container-solutions.com
 
