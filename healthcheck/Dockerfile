@@ -1,4 +1,4 @@
-FROM alpine:3.12.0
+FROM alpine:3.16.7
 
 RUN apk update && \
     apk add ruby ruby-json ruby-rdoc ruby-irb
